@@ -1,2 +1,4 @@
 Hi! I'm Amira, a computer science major at Boise State. I'm sort of a jack of all trades and yet a master at none. You'll find most of my time and energy on this account dedicated to web development. As I live on, this account will likely become more full with interesting and increasingly complex projects.
-As of writing, I'm currently developing and working on a repository for media that captured the events of September 11th, which I expect to fully release sometime early next year.
+As of writing, I'm currently developing and working on a repository for media that captured the events of September 11th, which I expect to fully release sometime early next year. Enjoy browsing.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakanz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
